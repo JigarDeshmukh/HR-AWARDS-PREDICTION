@@ -3,8 +3,8 @@ This Dataset consist of awards prediction by an employee
 
  
 
-                                                                    PROJECT   NAME-
-                                                                EMPLOYEE AWARD PREDICTOR
+                                                      PROJECT   NAME-
+                                                  EMPLOYEE AWARD PREDICTOR
 
 
 Project Title
